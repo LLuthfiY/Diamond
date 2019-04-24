@@ -98,3 +98,4 @@ for x in 0..(c as usize)-64{
 - pascal's triangle 
 - triagle
 - scrabble
+ 
