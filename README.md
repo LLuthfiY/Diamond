@@ -87,3 +87,14 @@ for x in 0..(c as usize)-64{
         //println!("{} {}",x ,(c as usize)-65);
     }
 ```
+
+
+
+Muhammad Luthfi A
+Nickname : LLuthfiY
+- clock
+- pythagorean triplet
+- diamond
+- pascal's triangle 
+- triagle
+- scrabble
