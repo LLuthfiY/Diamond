@@ -70,8 +70,8 @@ saya check semua kolom apakah kolom itu harus diisi dengan char atau tidak
 dan hasil nya akan menjadi sebuah string
 
 
-lalu check, jika iterasi ini adalah yang terakhir, maka result hanya akan ditambah 1 kali
-jika tidak,maka result ditambahkan 2 kali
+lalu check, jika iterasi ini adalah yang terakhir, maka result hanya akan ditambah 1 kali dari tengah
+jika tidak,maka result ditambahkan 2 kali dari tengah
 
 ```rust
 for x in 0..(c as usize)-64{
