@@ -90,8 +90,8 @@ for x in 0..(c as usize)-64{
 
 
 
-Muhammad Luthfi A
-Nickname : LLuthfiY
+##### Muhammad Luthfi A
+##### Nickname : LLuthfiY
 - clock
 - pythagorean triplet
 - diamond
