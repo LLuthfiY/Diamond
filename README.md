@@ -92,10 +92,10 @@ for x in 0..(c as usize)-64{
 
 ##### Muhammad Luthfi A
 ##### Nickname : LLuthfiY
-- clock
-- pythagorean triplet
-- diamond
-- pascal's triangle 
-- triagle
-- scrabble
+- clock (https://exercism.io/my/solutions/57c5c51389664ebabcbe0a81f347770d)
+- pythagorean triplet (https://exercism.io/my/solutions/9030599294504669b3ecca7ff196efa2)
+- diamond (https://exercism.io/my/solutions/c33df461691f44b599dac87925c48bd6)
+- pascal's triangle (https://exercism.io/my/solutions/957469550e6b4789a84c118cc9af3f55)
+- triagle (https://exercism.io/my/solutions/e8bb22e8c7ef4bec8a5793071eaba11a)
+- scrabble (https://exercism.io/my/solutions/ca644f2703c74a60bf65e09f65303ddc)
  
