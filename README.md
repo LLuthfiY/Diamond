@@ -1,4 +1,4 @@
-lalu check, jika iterasi ini adalah yang terkhir, maka # Diamond
+# Diamond
 
 ## problem
 in this problem, we are given a char C, and we have to make a diamond shape, it prints a diamond starting with 'A', with the supplied letter at the widest point.
@@ -70,7 +70,7 @@ saya check semua kolom apakah kolom itu harus diisi dengan char atau tidak
 dan hasil nya akan menjadi sebuah string
 
 
-lalu check, jika iterasi ini adalah yang terkhir, maka result hanya akan ditambah 1 kali
+lalu check, jika iterasi ini adalah yang terakhir, maka result hanya akan ditambah 1 kali
 jika tidak,maka result ditambahkan 2 kali
 
 ```rust
